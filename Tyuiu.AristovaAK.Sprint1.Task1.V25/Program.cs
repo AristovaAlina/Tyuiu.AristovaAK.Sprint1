@@ -31,7 +31,7 @@ internal class Program
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
         Console.WriteLine("***************************************************************************");
-
+         
         Console.WriteLine(Math.Round(ds.Calculate(x, y), 2));
 
         Console.ReadLine();

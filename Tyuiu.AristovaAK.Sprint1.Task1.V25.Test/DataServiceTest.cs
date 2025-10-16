@@ -13,6 +13,6 @@ namespace Tyuiu.AristovaAK.Sprint1.Task1.V25.Test
             double y = 3.0;
             var res = ds.Calculate(x, y);
             Assert.AreEqual(2, res);
-        }
+        } 
     }
 }

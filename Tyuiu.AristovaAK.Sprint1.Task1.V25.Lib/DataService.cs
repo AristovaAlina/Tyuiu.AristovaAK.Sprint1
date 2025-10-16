@@ -8,5 +8,5 @@ namespace Tyuiu.AristovaAK.Sprint1.Task1.V25.Lib
         {
             return (x * y) / (1 + x);
         }
-    }
+    } 
 }
