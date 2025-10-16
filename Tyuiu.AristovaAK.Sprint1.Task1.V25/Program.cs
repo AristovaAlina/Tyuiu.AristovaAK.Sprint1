@@ -1,4 +1,5 @@
 ﻿using Tyuiu.AristovaAK.Sprint1.Task1.V25.Lib;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 internal class Program
 {
     private static void Main(string[] args)
@@ -30,7 +31,8 @@ internal class Program
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
         Console.WriteLine("***************************************************************************");
-        Console.WriteLine(ds.Calculate(x, y));
+
+        Console.WriteLine(Math.Round(ds.Calculate(x, y), 2));
 
         Console.ReadLine();
     }
