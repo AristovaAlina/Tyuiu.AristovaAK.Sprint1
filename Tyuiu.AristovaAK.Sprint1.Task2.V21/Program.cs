@@ -34,6 +34,6 @@ internal class Program
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("Площадь прямоугольника = " + ds.CalculateRectangleSquare(a, b));
 
-        Console.ReadLine();
+        Console.ReadKey();
     }
 }
