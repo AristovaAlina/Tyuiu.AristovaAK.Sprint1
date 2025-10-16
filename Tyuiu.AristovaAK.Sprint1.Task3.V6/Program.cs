@@ -7,7 +7,7 @@ internal class Program
         Console.Title = "Спринт #1 | Выполнила: Аристова А. К. | СМАРТб-25-1";
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #1                                                               *");
-        Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
+        Console.WriteLine("* Тема: Операторы составного присваивания                                 *");
         Console.WriteLine("* Задание #3                                                              *");
         Console.WriteLine("* Вариант #6                                                              *");
         Console.WriteLine("* Выполнила: Аристова Алина Константиновна | СМАРТб-25-1                  *");
