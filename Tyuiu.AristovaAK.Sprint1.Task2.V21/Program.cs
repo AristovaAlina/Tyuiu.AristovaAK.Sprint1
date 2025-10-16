@@ -9,7 +9,7 @@ internal class Program
         Console.WriteLine("***************************************************************************");
         Console.WriteLine("* Спринт #1                                                               *");
         Console.WriteLine("* Тема: Арифметические операторы в C#                                     *");
-        Console.WriteLine("* Задание #1                                                              *");
+        Console.WriteLine("* Задание #2                                                              *");
         Console.WriteLine("* Вариант #21                                                             *");
         Console.WriteLine("* Выполнила: Аристова Алина Константиновна | СМАРТб-25-1                  *");
         Console.WriteLine("***************************************************************************");
