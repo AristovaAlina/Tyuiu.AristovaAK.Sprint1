@@ -34,6 +34,6 @@ internal class Program
          
         Console.WriteLine(Math.Round(ds.Calculate(x, y), 2));
 
-        Console.ReadLine();
+        Console.ReadKey();
     }
 }
