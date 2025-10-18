@@ -7,7 +7,7 @@ namespace Tyuiu.AristovaAK.Sprint1.Task7.V26.Lib
     {
         public double Calculate(double x, double y)
         {
-            double z = ((Math.Pow(Math.Sin(x), 2) + y) / (y + 1)) - ((x * y - 12) / (34 + x * x));
+            double z = ((Math.Sin(x*x) + y) / (y + 1)) - ((x * y - 12) / (34 + x * x));
             return Math.Round(z, 3);
         }
     }
